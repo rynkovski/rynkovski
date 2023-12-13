@@ -1,7 +1,8 @@
 ### Hello there 😎
 - 🌱 I’m currently learning TypeScript and React
 - 🔭 I’m currently working on KITH-PROJECT
-
+- 👯 I’m looking to collaborate on anything
+- 💬 Ask me about anything
 <!--
 **rynkovski/rynkovski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
