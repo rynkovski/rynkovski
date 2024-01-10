@@ -1,4 +1,4 @@
-### Hello there 😎
+### Hello 🙋🏻‍♂️
 - 🌱 I’m currently learning TypeScript and React
 - 🔭 I’m currently working on KITH-PROJECT
 - 👯 I’m looking to collaborate on anything
