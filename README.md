@@ -1,6 +1,6 @@
 ### Hello 🙋🏻‍♂️
-- 🌱 I’m currently learning TypeScript and React
-- 🔭 I’m currently working on KITH-PROJECT
+- 🌱 I’m currently learning TypeScript and Next.js
+- 🔭 I’m currently working on personal projects in React
 - 👯 I’m looking to collaborate on anything
 - 💬 Ask me about anything
 - 🌐 https://karolrynkowski.vercel.app/
