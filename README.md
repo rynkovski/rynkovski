@@ -10,7 +10,9 @@
 
 ###
 
-<p align="left">🔭 I’m currently working on [Extend UI](https://extendui.vercel.app/)<br><br>💻 Checkout my [portoflio](https://karolrynkowski.vercel.app/)<br><br>✉️ [Email](rynkowski.it@gmail.com)</p>
+🔭 I’m currently working on [Extend UI](https://extendui.vercel.app/)
+💻 Checkout my [portoflio](https://karolrynkowski.vercel.app/)
+✉️ [Email](rynkowski.it@gmail.com)
 
 ###
 
