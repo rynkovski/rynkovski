@@ -13,7 +13,7 @@
 🔭 Co-founder of [Extend Labs](https://github.com/extendlabs)<br><br>
 🖥️ Software Developer at [Advant](https://advant.pl/)<br><br>
 💻 Checkout my [portoflio](https://www.rynkovski.dev/)<br><br>
-✉️ **Email**: rynkowski.it@gmail.com
+
 
 ###
 
@@ -42,13 +42,3 @@
 </div>
 
 
-
-
-
-###
-
-<div align="left">
-  <img src="https://streak-stats.demolab.com?user=rynkovski&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
-
-###
