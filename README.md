@@ -10,7 +10,8 @@
 
 ###
 
-🔭 I’m currently working on [Extend UI](https://www.extend-ui.com/)<br><br>
+🔭 Co-founder of [Extend Labs](https://github.com/extendlabs)<br><br>
+🖥️ Software Developer at [Advant](https://advant.pl/)<br><br>
 💻 Checkout my [portoflio](https://www.rynkovski.dev/)<br><br>
 ✉️ **Email**: rynkowski.it@gmail.com
 
@@ -40,27 +41,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
 </div>
 
-###
 
-<h3 align="left">📚 Want to learn</h3>
 
-###
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" height="40" alt="graphql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/svelte/svelte-original.svg" height="40" alt="svelte logo"  />
-</div>
-
-###
-
-<h3 align="left">🔥   My Stats :</h3>
-
-###
-
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rynkovski&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
 
 ###
 
